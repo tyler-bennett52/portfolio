@@ -40,6 +40,16 @@
           "level": "70"
         },
         {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"

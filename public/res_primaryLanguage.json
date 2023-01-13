@@ -56,55 +56,34 @@
         ],
         "url": "https://github.com/tyler-bennett52/cookie-stand",
         "technologies": [
+
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "CodeFellows",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "11.2022 - 05.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Javascript"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "United States Air Force",
+        "title": "Airborne Cryptologic Language Analyst",
+        "years": "06.2012-06.2018",
+        "mainTech": [],
+        "technologies": []
       }
     ]
   }
