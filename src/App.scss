@@ -38,13 +38,16 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: darkslateblue;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	background-image: url('../public/images/bgpic.jpg');
+	color: white;
+	
 }
 
 header .nav {
@@ -86,7 +89,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: darkslateblue;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -95,7 +98,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: white;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -120,13 +123,14 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: dimgray;
 	overflow: hidden;
 }
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 40px 'opensans-bold', sans-serif;
+	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -184,7 +188,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 4 	00px;
 }
 
 .polaroid span {
@@ -231,7 +235,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: darkslateblue;
 }
 
 .experience-icon {
@@ -353,7 +357,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: darkslateblue;
 	padding-bottom: 5%;
 }
 
