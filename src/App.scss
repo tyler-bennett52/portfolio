@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: darkslateblue;
+	background-color: #332941;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -89,7 +89,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: darkslateblue;
+	background-color: #332941;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -235,7 +235,7 @@ header h1 {
 }
 
 #resume {
-	background: darkslateblue;
+	background: #332941;
 }
 
 .experience-icon {
@@ -357,7 +357,7 @@ header h1 {
 }
 
 #portfolio {
-	background: darkslateblue;
+	background: #332941;
 	padding-bottom: 5%;
 }
 
@@ -441,4 +441,8 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+.Nav-Item a{
+	color: white;
 }
